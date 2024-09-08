@@ -67,10 +67,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-         &kp Q        &kp D       &kp R               &kp W        &kp B                 &kp J         &kp F        &kp U                &kp P       &kp SEMI
-         &mt LCTRL A  &mt LALT S  &mt LEFT_COMMAND H  &mt LSHFT T  &kp G                 &kp Y         &mt RSHFT N  &mt RIGHT_COMMAND E  &mt RALT O  &kp I
-&kp ESC  &kp Z        &kp X       &kp M               &kp C        &kp V                 &kp K         &kp L        &kp COMMA            &kp DOT     &kp FSLH  &kp BSLH
-                                  &kp DEL             &lt 1 TAB    &mt SPACE CAPSLOCK    &mt RET CAPS  &lt 2 ESC    &kp BSPC
+         &kp Q        &kp D       &kp R               &kp W        &kp B        &kp J    &kp F        &kp U                &kp P       &kp SEMI
+         &mt LCTRL A  &mt LALT S  &mt LEFT_COMMAND H  &mt LSHFT T  &kp G        &kp Y    &mt RSHFT N  &mt RIGHT_COMMAND E  &mt RALT O  &kp I
+&kp ESC  &kp Z        &kp X       &kp M               &kp C        &kp V        &kp K    &kp L        &kp COMMA            &kp DOT     &kp FSLH  &kp BSLH
+                                  &kp DEL             &lt 1 TAB    &kp SPACE    &kp RET  &lt 2 ESC    &kp BSPC
             >;
         };
 
